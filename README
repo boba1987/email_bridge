@@ -2,4 +2,4 @@ Haraka
 
 Usage: 
 1. npm install -g Haraka
-2. Start Haraka using root permissions: `haraka -c /path/to/haraka`
+2. Start Haraka using root permissions: haraka -c /path/to/haraka
